@@ -1,0 +1,28 @@
+# Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go
+*.test
+*.out
+vendor/
+
+# IDE (редакторы кода)
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Операционная система
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Временные файлы
+tmp/
+temp/
