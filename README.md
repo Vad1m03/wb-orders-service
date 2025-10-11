@@ -30,9 +30,10 @@
 
 ### 1. Клонирование репозитория
 
-```bash
-git clone https://github.com/ВАШ_USERNAME/wb-orders-service.git
+```bash                    
+git clone https://...
 cd wb-orders-service
+```                        
 
 ### 2. Установка зависимостей
 go mod download
