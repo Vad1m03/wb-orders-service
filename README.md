@@ -42,6 +42,7 @@ go mod download
 Создайте базу данных и пользователя
 
 CREATE USER wb_user WITH PASSWORD 'wb_password';
+
 CREATE DATABASE wb_orders OWNER wb_user;
 
 ### 4. Запуск NATS Streaming
